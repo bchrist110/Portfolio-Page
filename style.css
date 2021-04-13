@@ -75,8 +75,8 @@ h2 { /*text of headers*/
 
 
 a:visited { color: white;   }
-a:hover   { color: purple; }
-a:active  { color: red;  }
+a:hover   { color: green; }
+a:active  { color: pink;  }
 
 .group {
   display: flex;
