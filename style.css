@@ -73,7 +73,7 @@ h2 { /*text of headers*/
 
 /*pseudo link colors*/
 
-
+a:link {color: cyan}
 a:visited { color: white;   }
 a:hover   { color: green; }
 a:active  { color: pink;  }
