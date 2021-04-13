@@ -4,6 +4,10 @@ header {
   margin-bottom: 40px;
 }
 
+h3 {
+  color:#e5dcc5;
+}
+
 header h1 {
   font-size: 48px;
   color: #fff;
@@ -70,7 +74,7 @@ h2 { /*text of headers*/
 /*pseudo link colors*/
 
 
-a:visited { color: yellow;   }
+a:visited { color: white;   }
 a:hover   { color: purple; }
 a:active  { color: red;  }
 
@@ -84,7 +88,10 @@ a:active  { color: red;  }
   display: flex;
   flex-direction: column;
   margin-bottom:100px;
-  
+}
+
+label {
+  color:#e5dcc5;
 }
 
 .item {
