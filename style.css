@@ -64,7 +64,7 @@ h2 { /*text of headers*/
   font-weight: 100;
   color:#e5dcc5;
   font-size: 32px;
-  
+  text-align: center;
 }
 
 /*pseudo link colors*/
